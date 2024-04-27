@@ -1,4 +1,4 @@
-This is repository for ilvokhin.com website development.
+This is repository for ilvokhin.com website.
 
-I really don't like all this frontend stuff, so I hope there isn't much
-development will happen here.
+I really don't like all this frontend stuff, so I don't expect much activity
+here.
